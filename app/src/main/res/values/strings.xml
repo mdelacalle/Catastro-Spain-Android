@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Catastro</string>
+    <string name="ask_for_location">Si quieres poder usar el GPS con la aplicación, necesitas dar permiso para usarlo.</string>
+    <string name="loading">Cargando...</string>
+</resources>
