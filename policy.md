@@ -1,6 +1,6 @@
 ## Esta política de privacidad establece el uso de todas las aplicaciónes móviles , creadas y mantenida por Brownie Tech S.A.
 
-###¿Qué información obtiene el aplicativo y como es utilizada?
+### ¿Qué información obtiene el aplicativo y como es utilizada?
  
  - Información proveída por el usuario
 
