@@ -1,12 +1,12 @@
-Esta política de privacidad establece el uso de todas las aplicaciónes móviles , creadas y mantenida por Brownie Tech S.A.
+## Esta política de privacidad establece el uso de todas las aplicaciónes móviles , creadas y mantenida por Brownie Tech S.A.
 
-¿Qué información obtiene el aplicativo y como es utilizada?
-
-### Información proveída por el usuario
+###¿Qué información obtiene el aplicativo y como es utilizada?
+ 
+ - Información proveída por el usuario
 
 El aplicativo no requiere ningún tipo de registro, pero si requiere que el usuario mantenga una cuenta de Apple App Store (iOS) y/o una cuenta de Google Play Store (Android) para descargar el o las aplicaciones.
 
-### Información obtenida automáticamente
+- Información obtenida automáticamente
 
 Adicionalmente, el aplicativo puede recopilar de forma automática otro tipo de información, como ser: tipo de dispositivo móvil, país del usuario, dirección IP, el sistema operativo del dispositivo móvil e información de cómo se usa el aplicativo.
 
